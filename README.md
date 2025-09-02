@@ -1,5 +1,5 @@
-<img src="<img width="735" height="651" alt="image" src="https://github.com/user-attachments/assets/7a1b3f0a-3328-44e5-816d-475468fe4745" />
-" width="400" height="350">
+<img src="<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/7a1b3f0a-3328-44e5-816d-475468fe4745" />
+
 
 <!--
 **octopus-devil/octopus-devil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
